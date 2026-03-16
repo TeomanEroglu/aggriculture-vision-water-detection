@@ -22,14 +22,7 @@ checkpoints/
 *.pt
 *.ckpt
 
-# Output / Visualization directories
-final_test_visuals/
-full_val_visuals/
-reconstructed_evaluation/
-reconstructed_full_val/
-reconstructed_red_preds/
-reconstructed_rgb_only/
-temp_red_crops/
+# Output 
 test_verify_quality/
 
 # Miscellaneous
